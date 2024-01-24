@@ -1,5 +1,8 @@
 I am a Senior software Developer having expertize in search/Relevancy.
 
+Languages Known:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 <!--
 **Devanand-Bodkhe/Devanand-Bodkhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
